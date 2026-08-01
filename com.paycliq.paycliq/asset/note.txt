@@ -1,0 +1,3 @@
+When updating either zip files, ensure asset_info.json is updated with the new sha256 for either files as this is what the app uses to know if an update is available
+logo_hash is the sha256 for the logo.zip which has the normal logos
+receipt_logo-hash is the sha256 for the slip logos which is used for printing
